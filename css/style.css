@@ -1,0 +1,84 @@
+body{
+    width: 1438px;
+    height: 4772px;
+}
+.logo{
+    margin-left: 133px;
+    margin-top: 42px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.litag{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 227px;
+    margin-top: 42px;
+    
+}
+ul{
+    
+    margin-left: 165px;
+    margin-top: 42px;
+}
+.ull{
+    margin-left: 190px;
+}
+.head{
+    z-index: 1000;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+}
+.decore{
+    width: 3100px;
+    height: 1272px;
+    margin-left: -1100px;
+    margin-top: -500px;
+    
+   
+   
+}
+.h1{
+    color: #DF6951;
+    margin-left: 140px;
+    margin-top: 213px;
+    font-size: 20px;
+}
+.h2{
+    margin-left: 140px;
+    margin-top: -730px;
+    font-size: 84px;
+    color: #181E4B;
+}
+p{
+    margin-left: 140px;
+    margin-top: 100px;
+    font-size: 16px;
+}
+.image{
+    margin-left: 806px;
+    margin-top: -500px;
+
+}
+.divbox{
+    width: 170px;
+    height: 60px;
+    margin-left: 140px;
+    background-color: #F1A501;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: -100px;
+}
+.divbox:hover{
+    background-color: red;
+}
+.divbox2{
+    margin-left: 33px;
+    padding-top: 20px;
+    color: white;
+    
+    
+}
+
